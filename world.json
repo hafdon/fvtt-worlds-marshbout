@@ -17,7 +17,7 @@
   "socket": false,
   "url": "https://github.com/hafdon/fvtt-worlds-marshbout",
   "manifest": "https://raw.githubusercontent.com/hafdon/fvtt-worlds-marshbout/main/world.json",
-  "download": "https://github.com/hafdon/fvtt-worlds-marshbout/archive/main.zip",
+  "download": "https://github.com/hafdon/fvtt-worlds-marshbout.git",
   "license": "",
   "readme": "",
   "bugs": "",
