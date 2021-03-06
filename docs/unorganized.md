@@ -96,3 +96,33 @@ Galad
 Andy Richter
 
 
+
+- i never go up against someone i think i can't beat
+- i've been studying making swords and knives for 30 years. i've made my mistakes. i'm not making any mistakes this time. 
+- i got this piece of lumber from a faroff place, where it was grown by a small samurai. one day, this tree will give its life for you.
+- I do consider myself something of a cowboy. I wish they could call you a Cow Man. I don't think I'm a boy anymore.
+
+* sonkusq [algonquin]  queen
+* salfay:  The reward paid to the finder and restorer of lost goods.
+* diaskeuast: a reviser (esp. recensions of ancient writing)
+* 	dye-asked-you-asked
+* blemmere (obs. a plumber)
+* archigrapher / archigraphus: the chief secretary or principal clerk
+* archmimic / archmime: the principal player or chief jester or buffoon; the chief mimic; in a funeral procession (roman) imitated gait and gestures of deceased and living
+* lanceprisado / Lancepezzades: a noncom of the lowest grade
+* stadholder: the governor of a fortress; a lieutenant governor of a province or provinces
+* stadionicest (from nike, victory, to conquer): a winner in a stadium or foot race 
+* self-styled 'controversialist'
+* preaetergredi : one who goes beyond or surpasses / to overlook
+* chickabiddy: a young child
+* costermonger / fructier: orig. apple seller; someone who sells fruit, vegetables, fish from barrow or handcart
+* rímkænn skilled in calendrical computation.
+* reim-kennar a person skilled in magic rhymes.
+* letterato: a learned person
+* stócach idler: (irish) ( walking gentlemen, as they are termed; men who have nothing to do, and no fortune to support them, but who style themselves esquire.)
+* disobstetricator [disobstretricate:  transitive. To reverse the office of a midwife concerning; to retard or hinder from child-birth.]
+
+## holidays
+- Parasceve (day before sabbath; 'day of preparation' or readiness)
+# 	- ancient Greek παρασκευή preparation, in Hellenistic Greek the ‘day of preparation’ (Septuagint) < παρα- para- prefix1 + σκευή equipment, outfit, attire < σκεῦος vessel, implement (see skeuomorph n.). Compare Gothic paraskaiwe, a direct borrowing from Greek.![](https://www.w3.org/TR/webrtc/)
+
