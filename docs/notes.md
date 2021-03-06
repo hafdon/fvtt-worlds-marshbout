@@ -28,6 +28,7 @@
 # mysteries
 
 - who is the statue of in the entrance hall of vernix manor?
+- sandford wall remnants can cause other walls to spring up (why they look "preserved" -- takes better magic to hide that.
 
 ## voices
 
@@ -58,3 +59,27 @@ rival != villain
   - Simulacrum
   - Project Image
 - make sure enounters move story forward
+- make up a whole region of the world, and PC is in charge of that ("The Crick")
+
+### monsters should act smarter
+
+- don't clump up (fireball)
+- actually read abilities ahead of time and use them
+- have an ability to heal (esp. if it's an object/staff - that way i can always not use it if the battle is too hard)
+- Flick has to be within 30 feet of target to activate force arrow, so I could have monsters run away and then back towars them, hiding, getting full cover, etc. And ignoring opportunity attacks.
+
+### players are acting smart
+
+- undead can be turned
+- 'confusion' spell takes away actions / causes own-goals
+
+### play a villain like a PC with a plan
+
+- how/what would villain do if PCs didn't interfere (this is what Dungeon WOrld recommends)
+- "villain is trying to course-correct"
+- villain can't have infinite resources
+  - have villain level-up during
+
+### act at the top of the world's intelligence
+
+- consequences for actions (killing a witherling unthinkingly is bad; blowing up the fish truck gets you an enemy)
