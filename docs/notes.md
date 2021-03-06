@@ -29,10 +29,32 @@
 
 - who is the statue of in the entrance hall of vernix manor?
 
-## cause and effect
-
-Mick: if bad things happen, we should be able to learn what we, or others, did, to cause it, and how to prevent it. 
-
 ## voices
 
 - yanta from 90 day fiance (like ... someone ... on frazier? )
+
+## DM Tips
+
+- Mick: if bad things happen, we should be able to learn what we, or others, did, to cause it, and how to prevent it. 
+- "could this NPC be this?" 
+- be open to revision
+- "what are you interested in?"
+- "what are the mysteries that excite me about ..."
+- what do you think might happen next
+- cool thing for character to do
+- important people in character's life
+- introduce villain early (make players hate them and want to defeat them) 
+  - bad guy or main lieutenant
+- monty: introduce your villain when players care about something in the world. villain threatens that thing.
+  - first 30 minutes of movie: make you care
+  - then: tell them thing will be destroyed unless you do something
+- spend levels 1-5 on small adventures, easing into world, small victories, resolve small elements of backstory, then introduce big plot and main villain
+  - https://www.youtube.com/watch?v=NqWl4On2emo
+- known threat that they can't get to -- villain
+- "write all NPCs with reasonable thought process behind their actions" -- be able to convince players. all villains could become allies. (treat as factions)
+rival != villain
+- Villain initiates conversation without endangering themselves
+  - Dream
+  - Simulacrum
+  - Project Image
+- make sure enounters move story forward
