@@ -13,6 +13,10 @@
 
 - aleconner
 
+## factions
+
+- bordlings or borderlings
+
 ## people
 
 - Pelageena 
