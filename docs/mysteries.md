@@ -1,2 +1,7 @@
 - It's about deciphering the clues, not getting them in the first place. So, successful checks can be used to aid in interpretion, but they shouldn't lock out the clues themselves on failed checks.
   - https://www.youtube.com/watch?v=D0UJh94YhJs
+- Gumshoe system
+  - https://site.pelgranepress.com/index.php/gumshoe/
+- multiple versions of same clue
+- clues that can only be found by magic (for a genre-savvy and higher-level group)
+- multiple NPCs who all have their own opinions
