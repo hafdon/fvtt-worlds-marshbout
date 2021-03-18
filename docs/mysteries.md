@@ -1,0 +1,2 @@
+- It's about deciphering the clues, not getting them in the first place. So, successful checks can be used to aid in interpretion, but they shouldn't lock out the clues themselves on failed checks.
+  - https://www.youtube.com/watch?v=D0UJh94YhJs
